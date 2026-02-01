@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NN App</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_training">Training</string>
+    <string name="title_results">Results</string>
+    <string name="title_settings">Settings</string>
+</resources>
